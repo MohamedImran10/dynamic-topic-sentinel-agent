@@ -1,0 +1,13 @@
+# Environment variables - DO NOT COMMIT
+.env
+
+# Python virtual environment
+venv/
+/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database file
+agent_memory.db

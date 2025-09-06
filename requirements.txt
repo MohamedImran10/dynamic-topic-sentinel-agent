@@ -1,0 +1,17 @@
+# Web Framework
+flask
+
+# Core AI & LangChain
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+
+# Tools & Utilities
+google-api-python-client
+youtube-transcript-api
+PyPDF2
+beautifulsoup4
+requests
+python-dotenv
+mysql-connector-python
